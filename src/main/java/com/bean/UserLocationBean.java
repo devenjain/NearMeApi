@@ -1,6 +1,6 @@
 package com.bean;
 
-public class UserBean {
+public class UserLocationBean {
 
 	private Double latitude;
 	private Double longitude;
